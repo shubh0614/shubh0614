@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubh Pathak</h1>
-<h3 align="center">A Machine Learning and Data Enthusiast from India</h3>
+<h3 align="center">A Machine Learning and Data Science Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh0614&label=Profile%20views&color=c98df2&style=flat" alt="shubh0614" /> </p>
 
