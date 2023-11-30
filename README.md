@@ -5,11 +5,11 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
-- 🌱 I’m currently learning **Data Science and Analysis**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://shubhpathak.netlify.app](https://shubhpathak.netlify.app)
 
-- 💬 Ask me about **Machine Learning an Deep Learning**
+- 💬 Ask me about **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **shubhpathakpro2gmail.com**
 
