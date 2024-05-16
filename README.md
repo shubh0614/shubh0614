@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
-- 📫 How to reach me **shubhpathakpro2gmail.com**
+- 📫 How to reach me **shubhpathakpro@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1igY47iSkCaSn9D3BzmdVcTcP0-olP6_y/view](https://drive.google.com/file/d/1igY47iSkCaSn9D3BzmdVcTcP0-olP6_y/view)
 
