@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://shubhpathak.netlify.app](https://shubhpathak.netlify.app)
+- 👨‍💻 All of my projects are available at [https://shubhpathak.netlify.app](https://shubh0614.github.io/ShubhOS/]
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
