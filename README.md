@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://shubh0614.github.io/ShubhOS/]
+- 👨‍💻 All of my projects are available at https://shubh0614.github.io/ShubhOS/
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **shubhpathakpro@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1igY47iSkCaSn9D3BzmdVcTcP0-olP6_y/view](https://drive.google.com/file/d/1igY47iSkCaSn9D3BzmdVcTcP0-olP6_y/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1igY47iSkCaSn9D3BzmdVcTcP0-olP6_y/view](https://drive.google.com/file/d/1ylrfROI9riVjK5WAb5dpC63YAScnFGG4/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
