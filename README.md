@@ -2,23 +2,22 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a56a0,100:c98df2&height=200&section=header&text=Shubh%20Pathak&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Production%20GenAI%20Systems&descAlignY=58&descSize=18" />
 </div>
-
 <!-- ============ TYPING ANIMATION ============ -->
 <div align="center">
   <a href="https://github.com/shubh0614">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=1A56A0&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+UBS+Investment+Banking;Multi-Agent+Systems+%7C+LangGraph+%7C+RAG;LLMOps%2C+Full-Stack%2C+and+Everything+Between;I+ship+things+that+actually+run+in+production" alt="Typing SVG" />
   </a>
 </div>
-
 <!-- ============ SOCIAL BADGES ============ -->
 <div align="center">
   <a href="https://www.linkedin.com/in/shubhpathak0614/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://shubh0614.github.io/ShubhOS/"><img src="https://img.shields.io/badge/Portfolio-ShubhOS-c98df2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="./Shubh_Resume_AI_Engineer.pdf"><img src="https://img.shields.io/badge/Resume-PDF-1A56A0?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
   <a href="mailto:shubhpathakpro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=shubh0614&label=Profile%20views&color=c98df2&style=for-the-badge" alt="views" />
 </div>
-
 <br/>
+<!-- ============ ABOUT ============ -->
 
 <!-- ============ ABOUT ============ -->
 ## 🧠 About Me
