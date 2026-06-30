@@ -47,6 +47,12 @@ class ShubhPathak:
 
 <br/>
 
+## 💼 Experience
+
+<div align="center">
+  <img src="./experience-timeline.svg" alt="Experience timeline" width="100%" />
+</div>
+
 <!-- ============ FEATURED PROJECTS ============ -->
 ## 🚀 Featured Projects
 
